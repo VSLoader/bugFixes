@@ -1,0 +1,7 @@
+{
+    "Name": "bugfixes",
+    "ID": "bugfixes",
+    "Version": "1.0.0",
+    "Description": "Fixes various bugs found in the game",
+    "Dependencies": []
+}
