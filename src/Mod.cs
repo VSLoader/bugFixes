@@ -5,14 +5,14 @@ using UndertaleModLib;
 using UndertaleModLib.Util;
 using UndertaleModLib.Models;
 
-namespace forceresolution;
+namespace bugfixes;
 
 public class Mod : GMSLMod
 {
     // Runs when patching the game when changes are detected.
     public override void Patch()
     {
-        Console.WriteLine($"[forceResolution]: Adding code...");
+        Console.WriteLine($"[bugFixes]: Adding code...");
         AddCode();
     }
 
